@@ -1,0 +1,55 @@
+Where are you from?,What is your major?,Are you an early bird or a night owl?,How many hours do you sleep on average?,What is your favorite color?,What is your favorite music genre?,How many steps do you average each day?,What is your favorite beverage?,Waffles or Pancakes?,Do you like pineapple on pizza?,How much money do you spend on food each month?,Are you a cat person or a dog person?,How many siblings do you have?,What is your favorite season?,What month is your birth month?
+California,Cognitive Science,Night owl,7,Yellow,R&B,5000,Fruit Juice,Waffles,Yes,500,Both,1,Spring,November
+California,Psychology,Early bird,5,Red,Hip Hop,13500,Water,Waffles,No,100,Dog,3,Fall,September
+California,Astrophysics,Night owl,8,Green,Jazz,7000,Water,Waffles,Yes,50,Cat,2,Fall,October
+California,Statistics,Night owl,6,Blue,Pop,10000,Water,Waffles,Yes,120,Dog,1,Winter,June
+Out of State,Computer Science,Night owl,9,Blue,Pop,6000,Coffee,Waffles,Yes,200,Cat,2,Winter,December
+California,Computer Science,Early bird,7,Blue,Classical,9500,Water,Pancakes,No,0,Both,1,Fall,November
+California,Engineering Physics,Night owl,7,Orange,Classical,10700,Water,Waffles,Yes,45,Both,1,Winter,December
+California,Neuroscience,Night owl,9,Blue,Pop,5000,Water,Waffles,Yes,50,Both,1,Fall,August
+California,Data Science,Night owl,6,Green,Pop,5000,Tea,Waffles,Yes,30,Neither,4,Winter,January
+California,Data Science,Neither,9,Purple,R&B,3000,Fruit Juice,Pancakes,No,500,Both,1,Fall,April
+California,Data Science,Night owl,7,Blue,Pop,10000,Boba,Waffles,Yes,250,Dog,1,Winter,May
+California,Computer Science,Neither,9,Orange,Rock,10000,Fruit Juice,Waffles,Yes,250,Dog,1,Fall,August
+California,Cognitive Science,Night owl,9,Green,R&B,10000,Water,Waffles,Yes,120,Cat,1,Summer,August
+California,Data Science,Night owl,7,Green,Rock,3000,Fruit Juice,Pancakes,No,14,Cat,1,Fall,June
+California,Data Science,Night owl,6,Purple,Pop,2000,Other,Waffles,No,40,Cat,1,Summer,August
+California,Data Science,Early bird,8,Green,R&B,2000,Tea,Waffles,Yes,50,Cat,1,Spring,July
+California,Applied Mathematics,Both,8,Green,R&B,6000,Tea,Waffles,No,300,Dog,2,Spring,February
+California,Biology,Night owl,7,Purple,Pop,7000,Boba,Waffles,Yes,400,Dog,1,Fall,November
+California,Biology,Early bird,8,Purple,Country,10000,Fruit Juice,Pancakes,Yes,200,Both,2,Spring,February
+California,Undeclared,Both,6,Green,Pop,3000,Boba,Waffles,Yes,150,Dog,2,Fall,January
+California,Business Admin,Both,7,Blue,Hip Hop,8000,Water,Pancakes,No,300,Dog,1,Spring,November
+California,Chemical Engineering,Neither,8,Blue,Pop,6000,Boba,Pancakes,Yes,200,Both,2,Spring,May
+California,Political Science,Both,7,Purple,EDM,8000,Fruit Juice,Waffles,No,30,Dog,3,Winter,May
+California,Philosophy,Both,8,Orange,Other,10000,Coffee,Pancakes,Yes,450,Cat,1,Spring,August
+California,Mechanical Engineering,Night owl,8,Blue,R&B,5000,Water,Waffles,No,300,Cat,1,Summer,June
+California,Data Science,Night owl,6,Blue,R&B,10000,Boba,Waffles,Yes,100,Both,0,Spring,April
+California,Art Practice,Night owl,6,Green,EDM,1000,Soft Drinks,Waffles,No,50,Cat,1,Spring,September
+California,Computer Science,Both,8,Green,Pop,4000,Fruit Juice,Waffles,Yes,75,Dog,1,Spring,March
+California,Data Science,Early bird,6,Green,R&B,8000,Fruit Juice,Waffles,Yes,100,Both,1,Winter,March
+California,Economics,Night owl,9,Purple,R&B,6000,Fruit Juice,Waffles,Yes,400,Cat,1,Spring,March
+California,Applied Mathematics,Night owl,5,Blue,Pop,4000,Water,Waffles,Yes,200,Both,0,Winter,April
+California,EECS,Both,7,Purple,Pop,4000,Water,Waffles,Yes,100,Cat,1,Winter,January
+California,Bioengineering,Night owl,7,Purple,Pop,6000,Boba,Pancakes,Yes,200,Both,1,Fall,June
+California,Bioengineering,Night owl,8,Blue,Pop,7000,Water,Waffles,Yes,600,Dog,2,Summer,July
+California,Undeclared,Early bird,7,Green,Pop,8000,Coffee,Pancakes,No,300,Dog,2,Spring,May
+California,Cognitive Science,Early bird,8,Purple,Pop,5000,Water,Pancakes,Yes,100,Both,2,Fall,March
+California,English,Both,6,Purple,Pop,4000,Water,Waffles,No,500,Both,1,Fall,September
+California,Bioengineering,Night owl,7,Green,Rock,3700,Tea,Waffles,No,100,Cat,0,Fall,March
+Out of State,Computer Science,Neither,8,Green,Pop,6000,Boba,Waffles,Yes,150,Cat,1,Spring,August
+California,Data Science,Neither,8,Blue,Pop,2000,Water,Waffles,Yes,100,Dog,1,Winter,August
+International,Media Studies,Both,6,Purple,Pop,2000,Coffee,Waffles,No,1000,Dog,1,Winter,January
+Out of State,Data Science,Both,7,Purple,R&B,12000,Soft Drinks,Pancakes,Yes,300,Dog,2,Fall,June
+California,Industrial Engineering,Night owl,7,Red,Pop,10000,Water,Pancakes,Yes,0,Cat,1,Spring,June
+California,Data Science,Night owl,7,Blue,Pop,8000,Boba,Pancakes,Yes,100,Dog,0,Fall,May
+California,Cognitive Science,Night owl,7,Blue,Pop,8000,Tea,Pancakes,No,1000,Cat,0,Summer,August
+California,Neuroscience,Both,6,Blue,R&B,6000,Water,Waffles,No,175,Cat,3,Summer,December
+California,Economics,Night owl,6,Purple,R&B,3500,Soft Drinks,Waffles,No,450,Both,1,Summer,June
+California,Cognitive Science,Night owl,7,Orange,Jazz,6000,Water,Waffles,Yes,500,Dog,1,Summer,September
+California,Mechanical Engineering,Night owl,7,Blue,Pop,7451,Fruit Juice,Waffles,Yes,75,Cat,1,Fall,August
+California,Cognitive Science,Night owl,5,Yellow,Rock,2000,Boba,Waffles,No,0,Dog,2,Fall,February
+California,Cognitive Science,Night owl,10,Red,Rock,783,Fruit Juice,Waffles,No,0,Dog,2,Fall,February
+California,EECS,Night owl,7,Red,Pop,9000,Boba,Waffles,Yes,200,Neither,3,Spring,May
+California,EECS,Night owl,8,Blue,Pop,3000,Water,Pancakes,Yes,40,Both,1,Spring,July
+California,Cognitive Science,Early bird,7,Yellow,R&B,7000,Water,Waffles,Yes,200,Dog,1,Fall,August
